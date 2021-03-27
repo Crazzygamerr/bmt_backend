@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267188663759",
+    "firebase_url": "https://bookmytrainings-app-server.firebaseio.com",
+    "project_id": "bookmytrainings-app-server",
+    "storage_bucket": "bookmytrainings-app-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267188663759:android:7d10d8b3b4819413e2ceba",
+        "android_client_info": {
+          "package_name": "com.example.bmt_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267188663759-hca08jt20m5c1i1cid7gbla7kgegmvjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKJFiFGfkb9yVGF62CJ5Ga1Auzmk2iH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267188663759-hca08jt20m5c1i1cid7gbla7kgegmvjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
